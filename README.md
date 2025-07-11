@@ -1,6 +1,6 @@
 Ising Model Simulation
 
-Project by:
+Project by:\
 Shriram Pragash M (EP23BTECH11028)\
 Siddharth Pamidi (EP23BTECH11029)\
 Vedant Mokal (EP23NTECH11034)\
